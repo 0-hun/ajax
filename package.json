@@ -1,0 +1,22 @@
+{
+  "name": "ajax",
+  "version": "1.0.0",
+  "description": "测试ajax的npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0-hun/ajax.git"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "0-hun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0-hun/ajax/issues"
+  },
+  "homepage": "https://github.com/0-hun/ajax#readme"
+}
